@@ -2,7 +2,7 @@
 <addon id="plugin.video.exodusFR" version="3.1.1" name="ExodusFR" provider-name="Tgirl">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="repository.exodusFR" version="1.0.0" />
+		<import addon="repository.exodusFR" version="1.0.1" />
 		<import addon="script.exodus.artwork" version="1.0.4" />
 		<import addon="script.exodus.metadata" version="1.0.0" />
 		<import addon="script.module.urlresolver" version="3.0.0" />

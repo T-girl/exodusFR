@@ -36,7 +36,9 @@
 - Update Translation
 - Fix skipping for hosters with captchas</news>
 	</extension>
-</addon><addon id="repository.exodusfr" name="ExodusFR repository" provider-name="Tgirl" version="1.0.1">
+</addon>
+
+<addon id="repository.exodusfr" name="ExodusFR repository" provider-name="Tgirl" version="1.0.1">
 	<extension name="ExodusFR repository" point="xbmc.addon.repository">
 		<dir>
 			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
@@ -52,7 +54,9 @@
 		<description lang="en">ExodusFR repository</description>
 		<platform>all</platform>
 	</extension>
-</addon><addon id="script.exodus.artwork" name="Exodus Artwork" provider-name="Exodus" version="1.0.4">
+</addon>
+
+<addon id="script.exodus.artwork" name="Exodus Artwork" provider-name="Exodus" version="1.0.4">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
@@ -62,7 +66,9 @@
 		<description>Themes for Exodus are maintained separately to make distribution of the the addon itself easier/faster.</description>
 		<platform>all</platform>
 	</extension>
-</addon><addon id="script.exodus.metadata" name="Exodus Metadata" provider-name="Exodus" version="1.0.0">
+</addon>
+
+<addon id="script.exodus.metadata" name="Exodus Metadata" provider-name="Exodus" version="1.0.0">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 	</requires>
@@ -72,4 +78,5 @@
 		<description>Metadata for Exodus are maintained separately to make distribution of the the addon itself easier/faster.</description>
 		<platform>all</platform>
 	</extension>
-</addon></addons>
+</addon>
+</addons>

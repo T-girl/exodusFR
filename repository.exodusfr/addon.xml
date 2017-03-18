@@ -6,9 +6,9 @@
 			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
 		</dir>
-		<info compressed="false">https://github.com/T-girl/exodusFR/tree/1.0.1/addons.xml</info>
-		<checksum>https://github.com/T-girl/exodusFR/tree/1.0.1/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/T-girl/exodusFR/tree/1.0.1/</datadir>
+		<info compressed="false">https://offshoregit.com/Tgirl/exodusFR/addons.xml</info>
+		<checksum>https://offshoregit.com/Tgirl/exodusFR/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/Tgirl/exodusFR/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">ExodusFR repository</summary>

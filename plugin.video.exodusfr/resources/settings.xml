@@ -3,12 +3,12 @@
 	<category label="32310">
 		<setting id="appearance.alt" type="action" label="32311" default="-" option="close" action="RunPlugin(plugin://plugin.video.exodus/?action=artwork)" visible="!System.HasAddon(script.exodus.artwork)" />
 		<setting id="appearance.1" type="select" label="32311" values="-|Exuary|Exodus|Genesis" default="Exodus" visible="System.HasAddon(script.exodus.artwork)" />
-		<setting id="scrapers.timeout.1" type="slider" label="32312" default="30" range="10,60" option="int" />
+		<setting id="scrapers.timeout.1" type="slider" label="32312" default="18" range="10,30" option="int" />
 		<setting id="trakt.user" type="text" default="" visible="false" />
 		<setting id="indicators.alt" type="enum" label="32313" lvalues="32314|32315" default="1" visible="!eq(-1,)" />
 		<setting id="indicators" type="enum" label="32313" lvalues="32314" default="0" visible="eq(-2,)" />
 		<setting id="api.language" type="select" label="32316" values="AUTO|Bulgarian|Chinese|Croatian|Czech|Danish|Dutch|English|Finnish|French|German|Greek|Hebrew|Hungarian|Italian|Japanese|Korean|Norwegian|Polish|Portuguese|Romanian|Russian|Serbian|Slovak|Slovenian|Spanish|Swedish|Thai|Turkish|Ukrainian" default="AUTO" />
-		<setting id="providers.lang" type="select" label="32360" values="English|German|German+English|French|French+English" default="English" />
+		<setting id="providers.lang" type="select" label="32360" values="English|German|German+English|French|French+English" default="French" />
 		<setting id="flatten.tvshows" type="bool" label="32317" default="false" />
 		<setting id="fanart" type="bool" label="32318" default="true" />
 		<setting type="lsep" label="32319" />
